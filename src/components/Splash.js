@@ -70,7 +70,6 @@ class Splash extends Component {
 
         <div className="gap-bottom-large">
           <select className="select" onChange={this.handleLanguageChange}>
-            <option value="tr-TR">Turkish</option>
             <option value="ar-EG">Arabic</option>
             <option value="fr-FR">French</option>
             <option value="hi-IN">Hindi</option>
@@ -80,6 +79,7 @@ class Splash extends Component {
             <option value="pl-PL">Polish</option>
             <option value="ru-RU">Russian</option>
             <option value="ca-ES">Spanish</option>
+            <option value="tr-TR">Turkish</option>
           </select>
         </div>
 
