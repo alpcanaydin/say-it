@@ -12,7 +12,7 @@ class Splash extends Component {
     super(props);
 
     this.state = {
-      language: 'tr-TR',
+      language: 'ar-EG',
       gameStarted: false,
       permission: true,
       unsupported: false,
