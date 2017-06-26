@@ -1,0 +1,90 @@
+{
+  "en-US": {
+    "level1": "pencil",
+    "level2": "hello world",
+    "level3": "weather is great today",
+    "level4": "to be ot not to be that is the question",
+    "level5": "together we stand divided we fall",
+    "level6": "the people united will never be defeated"
+  },
+  "tr-TR": {
+    "level1": "kalem",
+    "level2": "merhaba dünya",
+    "level3": "bugün hava çok güzel",
+    "level4": "olmak ya da olmamak işte bütün mesele bu",
+    "level5": "birlikte düştükçe bölündük",
+    "level6": "örgütlü bir halkı hiçbir kuvvet yenemez"
+  },
+  "pl-PL": {
+    "level1": "ołówek",
+    "level2": "witaj świecie",
+    "level3": "dziś pogoda jest bardzo ładna",
+    "level4": "być ot to nie jest to pytanie",
+    "level5": "birlikte düştükçe bölündük",
+    "level6": "ludzie zjednoczeni nigdy nie zostaną pokonani"
+  },
+  "nb-NO": {
+    "level1": "blyant",
+    "level2": "hei verden",
+    "level3": "været er bra i dag",
+    "level4": "å være ikke å være det som er spørsmålet",
+    "level5": "razem stajemy się podzieleni, upadamy",
+    "level6": "folkene som blir forent vil aldri bli beseiret"
+  },
+  "ca-ES": {
+    "level1": "lápiz",
+    "level2": "hola mundo",
+    "level3": "el clima es genial hoy",
+    "level4": "para ser ot no ser esa es la pregunta",
+    "level5": "juntos permaneceremos, divididos caeremos",
+    "level6": "el pueblo unido jamás será vencido"
+  },
+  "fr-FR": {
+    "level1": "crayon",
+    "level2": "bonjour le monde",
+    "level3": "le temps est grand aujourd'hui",
+    "level4": "rtre pour ne pas être, c'est la question",
+    "level5": "ensemble nous tenons, divisés nous tombons",
+    "level6": "les gens unis ne seront jamais vaincus"
+  },
+  "de-DE": {
+    "level1": "bleistift",
+    "level2": "hallo welt",
+    "level3": "wetter ist heute gut",
+    "level4": "um das zu sein, ist das nicht die Frage",
+    "level5": "zusammen stehen wir getrennt fallen wir",
+    "level6": "die vereinigten Menschen werden niemals besiegt"
+  },
+  "el-GR": {
+    "level1": "μολύβι",
+    "level2": "Γειά σου Κόσμε",
+    "level3": "Ο καιρός είναι υπέροχος σήμερα",
+    "level4": "Να μην είναι αυτή η ερώτηση",
+    "level5": "ενωμένοι στεκόμαστε διχασμένοι πέφτουμε",
+    "level6": ""
+  },
+  "ar-EG": {
+    "level1": "قلم",
+    "level2": "مرحبا بالعالم",
+    "level3": "الطقس عظيم اليوم",
+    "level4": "أن لا يكون هذا هو السؤال",
+    "level5": "متحدين نقف، متفرقين نسقط",
+    "level6": "oι άνθρωποι ενωμένοι δεν θα νικηθούν ποτέ"
+  },
+  "hi-IN": {
+    "level1": "पेंसिल",
+    "level2": "नमस्ते दुनिया",
+    "level3": "मौसम आज महान है",
+    "level4": "ओटी नहीं होना चाहिए कि ऐसा सवाल है",
+    "level5": "एक साथ हम खड़े हैं हम गिर जाते हैं",
+    "level6": "एकजुट लोगों को कभी भी पराजित नहीं किया जाएगा"
+  },
+  "ru-RU": {
+    "level1": "карандаш",
+    "level2": "Привет мир",
+    "level3": "Погода хорошая сегодня",
+    "level4": "Быть не в том, что это вопрос",
+    "level5": "мы вместе - стена, раздельно - песок",
+    "level6": "Объединенные люди никогда не будут побеждены"
+  }
+}
