@@ -17,6 +17,7 @@ class Level extends Component {
     this.handleListen = this.handleListen.bind(this);
     this.handleSay = this.handleSay.bind(this);
     this.handleNextLevel = this.handleNextLevel.bind(this);
+    this.handleRestart = this.handleRestart.bind(this);
   }
 
   compontentWillMount() {
@@ -59,7 +60,7 @@ class Level extends Component {
       this.props.recognition.abort();
       this.setState({
         speaking: false,
-        heardSentence: '',
+        heardSentence: 'unknown',
         score: 0,
       });
     });
@@ -68,12 +69,22 @@ class Level extends Component {
       this.props.recognition.abort();
       this.setState({
         speaking: false,
-        heardSentence: '',
+        heardSentence: 'unknown',
         score: 0,
       });
     });
 
     this.props.recognition.start();
+  }
+
+  handleRestart() {
+    this.context.updateScore(-1 * this.state.score);
+    this.props.recognition.abort();
+    this.setState({
+      speaking: false,
+      heardSentence: '',
+      score: 0,
+    });
   }
 
   handleNextLevel() {
@@ -103,6 +114,10 @@ class Level extends Component {
           <h3>Level Score / Total Score</h3>
           <h1 style={{ marginTop: '5px' }}>{score} / {this.context.getTotalScore()}</h1>
 
+          <button className="button" onClick={this.handleRestart}>
+            Restart Level
+          </button>
+          {' '}
           <button className="button" onClick={this.handleNextLevel}>
             Next Level
           </button>
