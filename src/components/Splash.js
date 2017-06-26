@@ -65,7 +65,7 @@ class Splash extends Component {
           in a language that you do not know.
         </p>
         <p className="gap-bottom-large">
-          Listen the sentence and try say it!
+          Listen the sentence and try to say it!
         </p>
 
         <div className="gap-bottom-large">
