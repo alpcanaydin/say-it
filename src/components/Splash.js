@@ -71,6 +71,7 @@ class Splash extends Component {
         <div className="gap-bottom-large">
           <select className="select" onChange={this.handleLanguageChange}>
             <option value="ar-EG">Arabic</option>
+            <option value="nl-NL">Dutch</option>
             <option value="fr-FR">French</option>
             <option value="hi-IN">Hindi</option>
             <option value="de-DE">German</option>
