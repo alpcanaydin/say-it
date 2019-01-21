@@ -38,7 +38,10 @@ class Splash extends Component {
 
     this.recognition
       .askPermission()
-      .then(() => this.setState({ gameStarted: true }))
+      .then(() => {
+        this.recognition.abort();
+        this.setState({ gameStarted: true });
+      })
       .catch(() => this.setState({ permission: false }));
   }
 
@@ -61,12 +64,11 @@ class Splash extends Component {
       <div>
         <h1 className="gap-bottom">Say it!</h1>
         <p className="gap-bottom">
-          Say it is a game that checks if you can speak<br />
+          Say it is a game that checks if you can speak
+          <br />
           in a language that you do not know.
         </p>
-        <p className="gap-bottom-large">
-          Listen the sentence and try to say it!
-        </p>
+        <p className="gap-bottom-large">Listen the sentence and try to say it!</p>
 
         <div className="gap-bottom-large">
           <select className="select" onChange={this.handleLanguageChange}>
