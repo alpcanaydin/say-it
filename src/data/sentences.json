@@ -5,7 +5,8 @@
     "level3": "weather is great today",
     "level4": "to be or not to be that is the question",
     "level5": "together we stand divided we fall",
-    "level6": "the people united will never be defeated"
+    "level6": "the people united will never be defeated",
+    "level7": "There's always a rainbow after the rain"
   },
   "tr-TR": {
     "level1": "kalem",
@@ -13,7 +14,8 @@
     "level3": "bugün hava çok güzel",
     "level4": "olmak ya da olmamak işte bütün mesele bu",
     "level5": "birlikte düştükçe bölündük",
-    "level6": "örgütlü bir halkı hiçbir kuvvet yenemez"
+    "level6": "örgütlü bir halkı hiçbir kuvvet yenemez",
+    "level7": "Her yağmurdan sonra gökkuşağı çıkar"
   },
   "pl-PL": {
     "level1": "ołówek",
@@ -21,7 +23,8 @@
     "level3": "dziś pogoda jest bardzo ładna",
     "level4": "być ot to nie jest to pytanie",
     "level5": "birlikte düştükçe bölündük",
-    "level6": "ludzie zjednoczeni nigdy nie zostaną pokonani"
+    "level6": "ludzie zjednoczeni nigdy nie zostaną pokonani",
+    "level7": "Usuń tęczę po każdym deszczu"
   },
   "nb-NO": {
     "level1": "blyant",
@@ -29,7 +32,8 @@
     "level3": "været er bra i dag",
     "level4": "å være ikke å være det som er spørsmålet",
     "level5": "razem stajemy się podzieleni, upadamy",
-    "level6": "folkene som blir forent vil aldri bli beseiret"
+    "level6": "folkene som blir forent vil aldri bli beseiret",
+    "level7": "Fjern regnbuen efter hver regn"
   },
   "ca-ES": {
     "level1": "lápiz",
@@ -37,7 +41,8 @@
     "level3": "el clima es genial hoy",
     "level4": "para ser ot no ser esa es la pregunta",
     "level5": "juntos permaneceremos, divididos caeremos",
-    "level6": "el pueblo unido jamás será vencido"
+    "level6": "el pueblo unido jamás será vencido",
+    "level7": "Retire el arco iris después de cada lluvia"
   },
   "fr-FR": {
     "level1": "crayon",
@@ -45,7 +50,8 @@
     "level3": "le temps est grand aujourd'hui",
     "level4": "etre pour ne pas être, c'est la question",
     "level5": "ensemble nous tenons, divisés nous tombons",
-    "level6": "les gens unis ne seront jamais vaincus"
+    "level6": "les gens unis ne seront jamais vaincus",
+    "level7": "Retirez l'arc en ciel après chaque pluie"
   },
   "de-DE": {
     "level1": "bleistift",
@@ -53,7 +59,8 @@
     "level3": "wetter ist heute gut",
     "level4": "um das zu sein, ist das nicht die Frage",
     "level5": "zusammen stehen wir getrennt fallen wir",
-    "level6": "die vereinigten Menschen werden niemals besiegt"
+    "level6": "die vereinigten Menschen werden niemals besiegt",
+    "level7": "Entfernen Sie die Regenbogen nach jedem regen"
   },
   "el-GR": {
     "level1": "μολύβι",
@@ -61,7 +68,8 @@
     "level3": "Ο καιρός είναι υπέροχος σήμερα",
     "level4": "Να μην είναι αυτή η ερώτηση",
     "level5": "ενωμένοι στεκόμαστε διχασμένοι πέφτουμε",
-    "level6": ""
+    "level6": "oι άνθρωποι ενωμένοι δεν θα νικηθούν ποτέ",
+    "level7": "Αφαιρέστε το ουράνιο τόξο μετά από κάθε βροχή"
   },
   "ar-EG": {
     "level1": "قلم",
@@ -69,7 +77,8 @@
     "level3": "الطقس عظيم اليوم",
     "level4": "أن لا يكون هذا هو السؤال",
     "level5": "متحدين نقف، متفرقين نسقط",
-    "level6": "oι άνθρωποι ενωμένοι δεν θα νικηθούν ποτέ"
+    "level6": "شعب نظمت يمكن هزيمة أي قوة",
+    "level7": "إزالة قوس قزح بعد المطر كل"
   },
   "hi-IN": {
     "level1": "पेंसिल",
@@ -77,7 +86,8 @@
     "level3": "मौसम आज महान है",
     "level4": "ओटी नहीं होना चाहिए कि ऐसा सवाल है",
     "level5": "एक साथ हम खड़े हैं हम गिर जाते हैं",
-    "level6": "एकजुट लोगों को कभी भी पराजित नहीं किया जाएगा"
+    "level6": "एकजुट लोगों को कभी भी पराजित नहीं किया जाएगा",
+    "level7": "हर बारिश के बाद इंद्रधनुष निकालें"
   },
   "ru-RU": {
     "level1": "карандаш",
@@ -85,7 +95,8 @@
     "level3": "Погода хорошая сегодня",
     "level4": "Быть не в том, что это вопрос",
     "level5": "мы вместе - стена, раздельно - песок",
-    "level6": "Объединенные люди никогда не будут побеждены"
+    "level6": "Объединенные люди никогда не будут побеждены",
+    "level7": "Удалить радугу после каждого дождя"
   },
   "nl-NL": {
     "level1": "potlood",
@@ -93,6 +104,7 @@
     "level3": "het weer is geweldig vandaag",
     "level4": "om dat te zijn of niet te zijn",
     "level5": "samen staan ​​we verdeeld vallen we",
-    "level6": "de mensen verenigd zullen nooit worden verslagen"
+    "level6": "de mensen verenigd zullen nooit worden verslagen",
+    "level7": "Verwijder de regenboog na elke regen"
   }
 }
